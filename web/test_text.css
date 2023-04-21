@@ -1,0 +1,14 @@
+body {background-image: url("http://bpic.588ku.com/back_water_img/19/01/09/23c1de85dda6bf1e6f01a65c32fa1c8378.jpg");}
+h1 {text-align: center;
+    color: red;
+    }
+p {color: rgb(135, 135, 199);
+    text-indent: 32px;
+    font-size: 16px;
+    line-height: 32px;
+}
+a {color: rgb(26, 202, 88);}
+img {position: absolute;
+    left: 50%;
+    margin-left: -181px;
+}
